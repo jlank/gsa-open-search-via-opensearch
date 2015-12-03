@@ -1,0 +1,1 @@
+gsa-open-search-via-opensearch
